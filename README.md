@@ -8,7 +8,7 @@ The primary objective of this project is to explore a dataset containing partici
 
 ## Dataset
 
-The main dataset (`ITEC610_assessment3_data.csv`) is derived from a survey measuring physical characteristics[cite: 2]. It contains 414,508 rows and 7 columns, including:
+The main dataset (`ITEC610_assessment3_data.csv`) is derived from a survey measuring physical characteristics. It contains 414,508 rows and 7 columns, including:
 *   `weight2`: Current weight.
 *   `wtyrago`: Weight one year ago.
 *   `htm3`: Height of the participant.
